@@ -9,6 +9,8 @@ gem 'spring', :group => :development
 
 gem 'pg'
 
+gem 'devise'
+
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
 end
