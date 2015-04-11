@@ -1,0 +1,16 @@
+*.rbc
+*.sassc
+.sass-cache
+/.bundle
+/vendor/bundle
+/log
+/tmp
+/public/system
+/public/assets
+/public/uploads
+/coverage/
+/spec/tmp
+# Ignore application configuration
+/config/application.yml
+/config/database.yml
+/uploads
